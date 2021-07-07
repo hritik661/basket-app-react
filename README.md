@@ -2,4 +2,4 @@
 
 example of shopping cart implemented in react.js and redux.js
 
-hosted  link [click here]
+hosted  link https://hritik661.github.io/basket-app-react/
