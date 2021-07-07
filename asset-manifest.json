@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/basket-app-react/static/css/main.07216b04.chunk.css",
+    "main.js": "/basket-app-react/static/js/main.a184af51.chunk.js",
+    "main.js.map": "/basket-app-react/static/js/main.a184af51.chunk.js.map",
+    "runtime-main.js": "/basket-app-react/static/js/runtime-main.e661e68d.js",
+    "runtime-main.js.map": "/basket-app-react/static/js/runtime-main.e661e68d.js.map",
+    "static/css/2.2645ef61.chunk.css": "/basket-app-react/static/css/2.2645ef61.chunk.css",
+    "static/js/2.383965ee.chunk.js": "/basket-app-react/static/js/2.383965ee.chunk.js",
+    "static/js/2.383965ee.chunk.js.map": "/basket-app-react/static/js/2.383965ee.chunk.js.map",
+    "index.html": "/basket-app-react/index.html",
+    "precache-manifest.37ff9fb4016542e0b87b4fc695d9b50f.js": "/basket-app-react/precache-manifest.37ff9fb4016542e0b87b4fc695d9b50f.js",
+    "service-worker.js": "/basket-app-react/service-worker.js",
+    "static/css/2.2645ef61.chunk.css.map": "/basket-app-react/static/css/2.2645ef61.chunk.css.map",
+    "static/css/main.07216b04.chunk.css.map": "/basket-app-react/static/css/main.07216b04.chunk.css.map",
+    "static/js/2.383965ee.chunk.js.LICENSE.txt": "/basket-app-react/static/js/2.383965ee.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/basket-app-react/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e661e68d.js",
+    "static/css/2.2645ef61.chunk.css",
+    "static/js/2.383965ee.chunk.js",
+    "static/css/main.07216b04.chunk.css",
+    "static/js/main.a184af51.chunk.js"
+  ]
+}
